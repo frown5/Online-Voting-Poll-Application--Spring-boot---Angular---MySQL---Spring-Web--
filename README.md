@@ -1,0 +1,2 @@
+# Online Voting/Poll Application (Spring boot , Angular , MySQL , Spring Web )
+ The Online Voting/Poll Application is a web-based platform that allows users to participate in polls or votes. It enables users to create polls, vote on them, view results, and track the status of ongoing polls. Built using Spring Boot for the backend, Angular for the frontend, MySQL for data storage, and Spring Web for creating RESTful APIs, this application allows for a full-stack, responsive, and scalable voting system.
